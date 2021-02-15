@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.customerswhoordered",
+  "name": "Cutomers Who Ordered",
+  "description": "Filter and export customers by when and what they ordered",
+  "version": "v1.0.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-user-ninja",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/ryanmitchell/ti-ext-customerswhoordered"
+}
